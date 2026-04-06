@@ -1,18 +1,18 @@
 # Web Scraping & Data Analysis Project
 
-## 📌 About the Project
+##  About the Project
 This is a simple data analysis project where I collected data from a website using web scraping and then analyzed it using Python. The main goal of this project is to understand how raw data can be turned into useful insights.
 
 ---
 
-## 🛠️ Tools I Used
+##  Tools I Used
 - Python  
 - Pandas  
 - Matplotlib  
 
 ---
 
-## 📊 What I Did in This Project
+##  What I Did in This Project
 - Collected data from a website table using Python
 - Checked basic details like shape, missing values, and data types
 - Explored data using filtering, sorting, and grouping
@@ -21,7 +21,7 @@ This is a simple data analysis project where I collected data from a website usi
 
 ---
 
-## 📈 What I Learned from This Data
+##  What I Learned from This Data
 - How companies are distributed across different countries  
 - Which country has more companies in the dataset  
 - How data visualization makes analysis easier to understand  
@@ -29,17 +29,17 @@ This is a simple data analysis project where I collected data from a website usi
 
 ---
 
-## 📌 Visuals Included
+##  Visuals Included
 - Bar chart for country distribution  
 - Pie chart for percentage share  
 - Histogram for company name length  
 
 ---
 
-## 🎯 Final Thoughts
+##  Final Thoughts
 This project helped me understand the basics of web scraping and data analysis. It was a good practice to work with real data and apply Python libraries like Pandas and Matplotlib.
 
 ---
 
-## 👨‍💻 Author
+##  Author
 Ujjawal Shah
